@@ -29,6 +29,8 @@ la ip debe ser la ip del servidor radius, testing123 es el parametro *secret* co
 [![config](https://github.com/jfernandomarquez/Radius-Apache2/blob/master/00-default-conf.PNG)](https://jfernandomarquez.blogspot.com/) 
 
 
+## Referencias
 
+https://www.adminsehow.com/2010/03/how-to-authenticate-apache-2-with-radius-on-debian/
 
-
+https://www.packet6.com/install-freeradius-ubuntu-server/
