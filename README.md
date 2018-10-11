@@ -16,6 +16,8 @@ el cliente es el servidor que tiene apache y por la tanto la ip es la correspend
 
 [![config](https://github.com/jfernandomarquez/Radius-Apache2/blob/master/users.PNG)](https://jfernandomarquez.blogspot.com/) 
 
+en el archivo *users* se especifica las credenciales para acceder a la página web. 
+
 ## Configuración de Apache2
 
 Se configura el archivo apache2.conf
@@ -26,7 +28,7 @@ la ip debe ser la ip del servidor radius, testing123 es el parametro *secret* co
 
 [![config](https://github.com/jfernandomarquez/Radius-Apache2/blob/master/00-default-conf.PNG)](https://jfernandomarquez.blogspot.com/) 
 
-en el archivo *users* se especifica las credenciales para acceder a la página web. 
+
 
 
 
